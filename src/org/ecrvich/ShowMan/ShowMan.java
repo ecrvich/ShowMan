@@ -2,6 +2,11 @@ package org.ecrvich.ShowMan;
 
 import java.util.Vector;
 
+/**
+ * 
+ * @author Ernest Crvich
+ *
+ */
 public class ShowMan
 {
    private ShowManOptions options;
